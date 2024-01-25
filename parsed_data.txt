@@ -1,0 +1,9 @@
+John,Smith,jsmith@column30.com,Finance
+Emma,Johnson,ejohnson@column30.com,HR
+Michael,Williams,mwilliams@column30.com,IT
+Olivia,Brown,obrown@column30.com,Marketing
+James,Jones,jjones@column30.com,IT
+Sophia,Garcia,sgarcia@column30.com,Finance
+Robert,Miller,rmiller@column30.com,Research
+Isabella,Davis,idavis@column30.com,Development
+David,Martinez,dmartinez@column30.com,Operations

@@ -1,0 +1,178 @@
+CSV parsing completed. Output written to parsed_data.txt
+2024-01-23 16:45:16 - CSV parsing completed. Output written to parsed_data.txt
+2024-01-23 21:16:36 - file_cache is only supported with oauth2client<4.0.0
+2024-01-23 21:16:37 - Error when creating user  ejohnson@column30.comv1test: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/users?alt=json returned "Invalid Input: primary_user_email". Details: "[{'message': 'Invalid Input: primary_user_email', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-23 21:16:37 - Error when creating user  mwilliams@column30.comv1test: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/users?alt=json returned "Invalid Input: primary_user_email". Details: "[{'message': 'Invalid Input: primary_user_email', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-23 21:16:37 - Error when creating user  obrown@column30.comv1test: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/users?alt=json returned "Invalid Input: primary_user_email". Details: "[{'message': 'Invalid Input: primary_user_email', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-23 21:16:37 - Error when creating user  jjones@column30.comv1test: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/users?alt=json returned "Invalid Input: primary_user_email". Details: "[{'message': 'Invalid Input: primary_user_email', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-23 21:16:37 - Error when creating user  sgarcia@column30.comv1test: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/users?alt=json returned "Invalid Input: primary_user_email". Details: "[{'message': 'Invalid Input: primary_user_email', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-23 21:16:37 - Error when creating user  rmiller@column30.comv1test: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/users?alt=json returned "Invalid Input: primary_user_email". Details: "[{'message': 'Invalid Input: primary_user_email', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-23 21:16:38 - Error when creating user  idavis@column30.comv1test: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/users?alt=json returned "Invalid Input: primary_user_email". Details: "[{'message': 'Invalid Input: primary_user_email', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-23 21:16:38 - Error when creating user  dmartinez@column30.comv1test: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/users?alt=json returned "Invalid Input: primary_user_email". Details: "[{'message': 'Invalid Input: primary_user_email', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-23 21:18:42 - file_cache is only supported with oauth2client<4.0.0
+2024-01-23 21:18:43 - Error when creating user v1test ejohnson@column30.com: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/users?alt=json returned "Invalid Input: primary_user_email". Details: "[{'message': 'Invalid Input: primary_user_email', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-23 21:18:43 - Error when creating user v1test mwilliams@column30.com: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/users?alt=json returned "Invalid Input: primary_user_email". Details: "[{'message': 'Invalid Input: primary_user_email', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-23 21:18:43 - Error when creating user v1test obrown@column30.com: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/users?alt=json returned "Invalid Input: primary_user_email". Details: "[{'message': 'Invalid Input: primary_user_email', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-23 21:18:43 - Error when creating user v1test jjones@column30.com: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/users?alt=json returned "Invalid Input: primary_user_email". Details: "[{'message': 'Invalid Input: primary_user_email', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-23 21:18:43 - Error when creating user v1test sgarcia@column30.com: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/users?alt=json returned "Invalid Input: primary_user_email". Details: "[{'message': 'Invalid Input: primary_user_email', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-23 21:18:43 - Error when creating user v1test rmiller@column30.com: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/users?alt=json returned "Invalid Input: primary_user_email". Details: "[{'message': 'Invalid Input: primary_user_email', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-23 21:18:44 - Error when creating user v1test idavis@column30.com: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/users?alt=json returned "Invalid Input: primary_user_email". Details: "[{'message': 'Invalid Input: primary_user_email', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-23 21:18:44 - Error when creating user v1test dmartinez@column30.com: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/users?alt=json returned "Invalid Input: primary_user_email". Details: "[{'message': 'Invalid Input: primary_user_email', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-23 21:20:33 - file_cache is only supported with oauth2client<4.0.0
+2024-01-23 21:20:34 - Error when creating user 123 ejohnson@column30.com: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/users?alt=json returned "Invalid Input: primary_user_email". Details: "[{'message': 'Invalid Input: primary_user_email', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-23 21:20:34 - Error when creating user 123 mwilliams@column30.com: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/users?alt=json returned "Invalid Input: primary_user_email". Details: "[{'message': 'Invalid Input: primary_user_email', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-23 21:20:34 - Error when creating user 123 obrown@column30.com: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/users?alt=json returned "Invalid Input: primary_user_email". Details: "[{'message': 'Invalid Input: primary_user_email', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-23 21:20:34 - Error when creating user 123 jjones@column30.com: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/users?alt=json returned "Invalid Input: primary_user_email". Details: "[{'message': 'Invalid Input: primary_user_email', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-23 21:20:34 - Error when creating user 123 sgarcia@column30.com: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/users?alt=json returned "Invalid Input: primary_user_email". Details: "[{'message': 'Invalid Input: primary_user_email', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-23 21:20:34 - Error when creating user 123 rmiller@column30.com: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/users?alt=json returned "Invalid Input: primary_user_email". Details: "[{'message': 'Invalid Input: primary_user_email', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-23 21:20:35 - Error when creating user 123 idavis@column30.com: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/users?alt=json returned "Invalid Input: primary_user_email". Details: "[{'message': 'Invalid Input: primary_user_email', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-23 21:20:35 - Error when creating user 123 dmartinez@column30.com: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/users?alt=json returned "Invalid Input: primary_user_email". Details: "[{'message': 'Invalid Input: primary_user_email', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-23 21:24:35 - file_cache is only supported with oauth2client<4.0.0
+2024-01-23 21:24:36 - Error when creating user  ejohnson@column30.com: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/users?alt=json returned "Invalid Input: primary_user_email". Details: "[{'message': 'Invalid Input: primary_user_email', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-23 21:24:36 - Error when creating user  mwilliams@column30.com: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/users?alt=json returned "Invalid Input: primary_user_email". Details: "[{'message': 'Invalid Input: primary_user_email', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-23 21:24:36 - Error when creating user  obrown@column30.com: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/users?alt=json returned "Invalid Input: primary_user_email". Details: "[{'message': 'Invalid Input: primary_user_email', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-23 21:24:37 - Error when creating user  jjones@column30.com: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/users?alt=json returned "Invalid Input: primary_user_email". Details: "[{'message': 'Invalid Input: primary_user_email', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-23 21:24:37 - Error when creating user  sgarcia@column30.com: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/users?alt=json returned "Invalid Input: primary_user_email". Details: "[{'message': 'Invalid Input: primary_user_email', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-23 21:24:37 - Error when creating user  rmiller@column30.com: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/users?alt=json returned "Invalid Input: primary_user_email". Details: "[{'message': 'Invalid Input: primary_user_email', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-23 21:24:37 - Error when creating user  idavis@column30.com: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/users?alt=json returned "Invalid Input: primary_user_email". Details: "[{'message': 'Invalid Input: primary_user_email', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-23 21:24:37 - Error when creating user  dmartinez@column30.com: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/users?alt=json returned "Invalid Input: primary_user_email". Details: "[{'message': 'Invalid Input: primary_user_email', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-23 21:29:26 - CSV parsing completed. Output written to parsed_data.txt
+2024-01-23 21:29:56 - file_cache is only supported with oauth2client<4.0.0
+2024-01-23 21:29:58 - User created: ejohnson@column30.com
+2024-01-23 21:29:59 - User created: mwilliams@column30.com
+2024-01-23 21:30:00 - User created: obrown@column30.com
+2024-01-23 21:30:02 - User created: jjones@column30.com
+2024-01-23 21:30:03 - User created: sgarcia@column30.com
+2024-01-23 21:30:04 - User created: rmiller@column30.com
+2024-01-23 21:30:05 - User created: idavis@column30.com
+2024-01-23 21:30:06 - Error when creating user dmartinez@column30.com: <HttpError 412 when requesting https://admin.googleapis.com/admin/directory/v1/users?alt=json returned "Insufficient licenses for one or more products that are set to automatically assign licenses to new users". Details: "[{'message': 'Insufficient licenses for one or more products that are set to automatically assign licenses to new users', 'domain': 'global', 'reason': 'limitExceeded', 'location': 'If-Match', 'locationType': 'header'}]">
+2024-01-24 11:24:13 - file_cache is only supported with oauth2client<4.0.0
+2024-01-24 11:24:14 - jjones@column30.com has been promoted to super admin
+2024-01-24 12:09:04 - file_cache is only supported with oauth2client<4.0.0
+2024-01-24 12:16:10 - file_cache is only supported with oauth2client<4.0.0
+2024-01-24 12:16:12 - Group created: O@column30.com
+2024-01-24 12:16:13 - Group created: p@column30.com
+2024-01-24 12:16:14 - Group created: e@column30.com
+2024-01-24 12:16:15 - Group created: r@column30.com
+2024-01-24 12:16:16 - Group created: a@column30.com
+2024-01-24 12:16:17 - Group created: t@column30.com
+2024-01-24 12:16:18 - Group created: i@column30.com
+2024-01-24 12:16:18 - Error in creating group: <HttpError 409 when requesting https://admin.googleapis.com/admin/directory/v1/groups?alt=json returned "Entity already exists.". Details: "[{'message': 'Entity already exists.', 'domain': 'global', 'reason': 'duplicate'}]">
+2024-01-24 12:16:19 - Group created: n@column30.com
+2024-01-24 12:16:21 - Group created: s@column30.com
+2024-01-24 12:21:07 - file_cache is only supported with oauth2client<4.0.0
+2024-01-24 12:21:08 - Error in creating group: <HttpError 409 when requesting https://admin.googleapis.com/admin/directory/v1/groups?alt=json returned "Entity already exists.". Details: "[{'message': 'Entity already exists.', 'domain': 'global', 'reason': 'duplicate'}]">
+2024-01-24 12:21:08 - Error in creating group: <HttpError 409 when requesting https://admin.googleapis.com/admin/directory/v1/groups?alt=json returned "Entity already exists.". Details: "[{'message': 'Entity already exists.', 'domain': 'global', 'reason': 'duplicate'}]">
+2024-01-24 12:21:08 - Error in creating group: <HttpError 409 when requesting https://admin.googleapis.com/admin/directory/v1/groups?alt=json returned "Entity already exists.". Details: "[{'message': 'Entity already exists.', 'domain': 'global', 'reason': 'duplicate'}]">
+2024-01-24 12:21:09 - Error in creating group: <HttpError 409 when requesting https://admin.googleapis.com/admin/directory/v1/groups?alt=json returned "Entity already exists.". Details: "[{'message': 'Entity already exists.', 'domain': 'global', 'reason': 'duplicate'}]">
+2024-01-24 12:21:09 - Error in creating group: <HttpError 409 when requesting https://admin.googleapis.com/admin/directory/v1/groups?alt=json returned "Entity already exists.". Details: "[{'message': 'Entity already exists.', 'domain': 'global', 'reason': 'duplicate'}]">
+2024-01-24 12:21:09 - Error in creating group: <HttpError 409 when requesting https://admin.googleapis.com/admin/directory/v1/groups?alt=json returned "Entity already exists.". Details: "[{'message': 'Entity already exists.', 'domain': 'global', 'reason': 'duplicate'}]">
+2024-01-24 12:21:09 - Error in creating group: <HttpError 409 when requesting https://admin.googleapis.com/admin/directory/v1/groups?alt=json returned "Entity already exists.". Details: "[{'message': 'Entity already exists.', 'domain': 'global', 'reason': 'duplicate'}]">
+2024-01-24 12:21:09 - Error in creating group: <HttpError 409 when requesting https://admin.googleapis.com/admin/directory/v1/groups?alt=json returned "Entity already exists.". Details: "[{'message': 'Entity already exists.', 'domain': 'global', 'reason': 'duplicate'}]">
+2024-01-24 12:21:10 - Error in creating group: <HttpError 409 when requesting https://admin.googleapis.com/admin/directory/v1/groups?alt=json returned "Entity already exists.". Details: "[{'message': 'Entity already exists.', 'domain': 'global', 'reason': 'duplicate'}]">
+2024-01-24 12:21:10 - Error in creating group: <HttpError 409 when requesting https://admin.googleapis.com/admin/directory/v1/groups?alt=json returned "Entity already exists.". Details: "[{'message': 'Entity already exists.', 'domain': 'global', 'reason': 'duplicate'}]">
+2024-01-24 12:22:41 - file_cache is only supported with oauth2client<4.0.0
+2024-01-24 12:22:42 - Group created: O@column30.com
+2024-01-24 12:22:43 - Group created: p@column30.com
+2024-01-24 12:22:44 - Group created: e@column30.com
+2024-01-24 12:22:46 - Group created: r@column30.com
+2024-01-24 12:22:47 - Group created: a@column30.com
+2024-01-24 12:22:48 - Group created: t@column30.com
+2024-01-24 12:22:49 - Group created: i@column30.com
+2024-01-24 12:22:49 - Error in creating group: <HttpError 409 when requesting https://admin.googleapis.com/admin/directory/v1/groups?alt=json returned "Entity already exists.". Details: "[{'message': 'Entity already exists.', 'domain': 'global', 'reason': 'duplicate'}]">
+2024-01-24 12:22:51 - Group created: n@column30.com
+2024-01-24 12:22:52 - Group created: s@column30.com
+2024-01-24 12:32:20 - file_cache is only supported with oauth2client<4.0.0
+2024-01-24 12:32:22 - Group created: HR@column30.com
+2024-01-24 12:32:23 - Group created: Research@column30.com
+2024-01-24 12:32:24 - Group created: Finance@column30.com
+2024-01-24 12:32:26 - Group created: Operations@column30.com
+2024-01-24 12:32:27 - Group created: Marketing@column30.com
+2024-01-24 12:32:28 - Group created: IT@column30.com
+2024-01-24 12:32:29 - Group created: Development@column30.com
+2024-01-24 13:28:57 - file_cache is only supported with oauth2client<4.0.0
+2024-01-24 13:28:58 - Error in creating group: <HttpError 409 when requesting https://admin.googleapis.com/admin/directory/v1/groups?alt=json returned "Entity already exists.". Details: "[{'message': 'Entity already exists.', 'domain': 'global', 'reason': 'duplicate'}]">
+2024-01-24 13:28:59 - Error in creating group: <HttpError 409 when requesting https://admin.googleapis.com/admin/directory/v1/groups?alt=json returned "Entity already exists.". Details: "[{'message': 'Entity already exists.', 'domain': 'global', 'reason': 'duplicate'}]">
+2024-01-24 13:28:59 - Error in creating group: <HttpError 409 when requesting https://admin.googleapis.com/admin/directory/v1/groups?alt=json returned "Entity already exists.". Details: "[{'message': 'Entity already exists.', 'domain': 'global', 'reason': 'duplicate'}]">
+2024-01-24 13:28:59 - Error in creating group: <HttpError 409 when requesting https://admin.googleapis.com/admin/directory/v1/groups?alt=json returned "Entity already exists.". Details: "[{'message': 'Entity already exists.', 'domain': 'global', 'reason': 'duplicate'}]">
+2024-01-24 13:28:59 - Error in creating group: <HttpError 409 when requesting https://admin.googleapis.com/admin/directory/v1/groups?alt=json returned "Entity already exists.". Details: "[{'message': 'Entity already exists.', 'domain': 'global', 'reason': 'duplicate'}]">
+2024-01-24 13:28:59 - Error in creating group: <HttpError 409 when requesting https://admin.googleapis.com/admin/directory/v1/groups?alt=json returned "Entity already exists.". Details: "[{'message': 'Entity already exists.', 'domain': 'global', 'reason': 'duplicate'}]">
+2024-01-24 13:29:00 - Error in creating group: <HttpError 409 when requesting https://admin.googleapis.com/admin/directory/v1/groups?alt=json returned "Entity already exists.". Details: "[{'message': 'Entity already exists.', 'domain': 'global', 'reason': 'duplicate'}]">
+2024-01-24 13:50:43 - file_cache is only supported with oauth2client<4.0.0
+2024-01-24 13:50:44 - Error in adding member to group: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/groups/HR%40column30.com/members?alt=json returned "Invalid Input: memberKey". Details: "[{'message': 'Invalid Input: memberKey', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-24 13:50:44 - Error in adding member to group: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/groups/IT%40column30.com/members?alt=json returned "Invalid Input: memberKey". Details: "[{'message': 'Invalid Input: memberKey', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-24 13:50:44 - Error in adding member to group: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/groups/Marketing%40column30.com/members?alt=json returned "Invalid Input: memberKey". Details: "[{'message': 'Invalid Input: memberKey', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-24 13:50:45 - Error in adding member to group: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/groups/IT%40column30.com/members?alt=json returned "Invalid Input: memberKey". Details: "[{'message': 'Invalid Input: memberKey', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-24 13:50:45 - Error in adding member to group: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/groups/Finance%40column30.com/members?alt=json returned "Invalid Input: memberKey". Details: "[{'message': 'Invalid Input: memberKey', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-24 13:50:45 - Error in adding member to group: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/groups/Research%40column30.com/members?alt=json returned "Invalid Input: memberKey". Details: "[{'message': 'Invalid Input: memberKey', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-24 13:50:45 - Error in adding member to group: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/groups/Development%40column30.com/members?alt=json returned "Invalid Input: memberKey". Details: "[{'message': 'Invalid Input: memberKey', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-24 13:50:45 - Error in adding member to group: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/groups/Operations%40column30.com/members?alt=json returned "Invalid Input: memberKey". Details: "[{'message': 'Invalid Input: memberKey', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-24 13:57:18 - file_cache is only supported with oauth2client<4.0.0
+2024-01-24 13:57:19 - Error in adding member to group: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/groups/HR%40column30.com/members?alt=json returned "Invalid Input: memberKey". Details: "[{'message': 'Invalid Input: memberKey', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-24 13:57:20 - Error in adding member to group: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/groups/IT%40column30.com/members?alt=json returned "Invalid Input: memberKey". Details: "[{'message': 'Invalid Input: memberKey', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-24 13:57:20 - Error in adding member to group: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/groups/Marketing%40column30.com/members?alt=json returned "Invalid Input: memberKey". Details: "[{'message': 'Invalid Input: memberKey', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-24 13:57:20 - Error in adding member to group: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/groups/IT%40column30.com/members?alt=json returned "Invalid Input: memberKey". Details: "[{'message': 'Invalid Input: memberKey', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-24 13:57:20 - Error in adding member to group: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/groups/Finance%40column30.com/members?alt=json returned "Invalid Input: memberKey". Details: "[{'message': 'Invalid Input: memberKey', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-24 13:57:20 - Error in adding member to group: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/groups/Research%40column30.com/members?alt=json returned "Invalid Input: memberKey". Details: "[{'message': 'Invalid Input: memberKey', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-24 13:57:20 - Error in adding member to group: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/groups/Development%40column30.com/members?alt=json returned "Invalid Input: memberKey". Details: "[{'message': 'Invalid Input: memberKey', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-24 13:57:21 - Error in adding member to group: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/groups/Operations%40column30.com/members?alt=json returned "Invalid Input: memberKey". Details: "[{'message': 'Invalid Input: memberKey', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-24 14:03:22 - file_cache is only supported with oauth2client<4.0.0
+2024-01-24 14:03:24 - Group created: development@column30.com
+2024-01-24 14:03:25 - Group created: marketing@column30.com
+2024-01-24 14:03:26 - Group created: hr@column30.com
+2024-01-24 14:03:27 - Group created: finance@column30.com
+2024-01-24 14:03:28 - Group created: operations@column30.com
+2024-01-24 14:03:29 - Group created: research@column30.com
+2024-01-24 14:03:30 - Group created: it@column30.com
+2024-01-24 14:10:18 - file_cache is only supported with oauth2client<4.0.0
+2024-01-24 14:10:19 - Error in adding member to group: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/groups/HR%40column30.com/members?alt=json returned "Invalid Input: memberKey". Details: "[{'message': 'Invalid Input: memberKey', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-24 14:10:19 - Error in adding member to group: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/groups/IT%40column30.com/members?alt=json returned "Invalid Input: memberKey". Details: "[{'message': 'Invalid Input: memberKey', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-24 14:10:19 - Error in adding member to group: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/groups/Marketing%40column30.com/members?alt=json returned "Invalid Input: memberKey". Details: "[{'message': 'Invalid Input: memberKey', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-24 14:10:19 - Error in adding member to group: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/groups/IT%40column30.com/members?alt=json returned "Invalid Input: memberKey". Details: "[{'message': 'Invalid Input: memberKey', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-24 14:10:20 - Error in adding member to group: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/groups/Finance%40column30.com/members?alt=json returned "Invalid Input: memberKey". Details: "[{'message': 'Invalid Input: memberKey', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-24 14:10:20 - Error in adding member to group: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/groups/Research%40column30.com/members?alt=json returned "Invalid Input: memberKey". Details: "[{'message': 'Invalid Input: memberKey', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-24 14:10:20 - Error in adding member to group: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/groups/Development%40column30.com/members?alt=json returned "Invalid Input: memberKey". Details: "[{'message': 'Invalid Input: memberKey', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-24 14:10:20 - Error in adding member to group: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/groups/Operations%40column30.com/members?alt=json returned "Invalid Input: memberKey". Details: "[{'message': 'Invalid Input: memberKey', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-24 14:12:01 - file_cache is only supported with oauth2client<4.0.0
+2024-01-24 14:12:02 - Error in adding member to group: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/groups/hr%40column30.com/members?alt=json returned "Invalid Input: memberKey". Details: "[{'message': 'Invalid Input: memberKey', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-24 14:12:02 - Error in adding member to group: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/groups/it%40column30.com/members?alt=json returned "Invalid Input: memberKey". Details: "[{'message': 'Invalid Input: memberKey', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-24 14:12:02 - Error in adding member to group: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/groups/marketing%40column30.com/members?alt=json returned "Invalid Input: memberKey". Details: "[{'message': 'Invalid Input: memberKey', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-24 14:12:03 - Error in adding member to group: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/groups/it%40column30.com/members?alt=json returned "Invalid Input: memberKey". Details: "[{'message': 'Invalid Input: memberKey', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-24 14:12:03 - Error in adding member to group: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/groups/finance%40column30.com/members?alt=json returned "Invalid Input: memberKey". Details: "[{'message': 'Invalid Input: memberKey', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-24 14:12:03 - Error in adding member to group: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/groups/research%40column30.com/members?alt=json returned "Invalid Input: memberKey". Details: "[{'message': 'Invalid Input: memberKey', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-24 14:12:03 - Error in adding member to group: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/groups/development%40column30.com/members?alt=json returned "Invalid Input: memberKey". Details: "[{'message': 'Invalid Input: memberKey', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-24 14:12:03 - Error in adding member to group: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/groups/operations%40column30.com/members?alt=json returned "Invalid Input: memberKey". Details: "[{'message': 'Invalid Input: memberKey', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-24 14:16:07 - file_cache is only supported with oauth2client<4.0.0
+2024-01-24 14:16:07 - Attempting to add Emma to hr@column30.com
+2024-01-24 14:16:08 - Error in adding member to group: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/groups/hr%40column30.com/members?alt=json returned "Invalid Input: memberKey". Details: "[{'message': 'Invalid Input: memberKey', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-24 14:16:08 - Attempting to add Michael to it@column30.com
+2024-01-24 14:16:08 - Error in adding member to group: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/groups/it%40column30.com/members?alt=json returned "Invalid Input: memberKey". Details: "[{'message': 'Invalid Input: memberKey', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-24 14:16:08 - Attempting to add Olivia to marketing@column30.com
+2024-01-24 14:16:09 - Error in adding member to group: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/groups/marketing%40column30.com/members?alt=json returned "Invalid Input: memberKey". Details: "[{'message': 'Invalid Input: memberKey', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-24 14:16:09 - Attempting to add James to it@column30.com
+2024-01-24 14:16:09 - Error in adding member to group: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/groups/it%40column30.com/members?alt=json returned "Invalid Input: memberKey". Details: "[{'message': 'Invalid Input: memberKey', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-24 14:16:09 - Attempting to add Sophia to finance@column30.com
+2024-01-24 14:16:09 - Error in adding member to group: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/groups/finance%40column30.com/members?alt=json returned "Invalid Input: memberKey". Details: "[{'message': 'Invalid Input: memberKey', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-24 14:16:09 - Attempting to add Robert to research@column30.com
+2024-01-24 14:16:09 - Error in adding member to group: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/groups/research%40column30.com/members?alt=json returned "Invalid Input: memberKey". Details: "[{'message': 'Invalid Input: memberKey', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-24 14:16:09 - Attempting to add Isabella to development@column30.com
+2024-01-24 14:16:09 - Error in adding member to group: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/groups/development%40column30.com/members?alt=json returned "Invalid Input: memberKey". Details: "[{'message': 'Invalid Input: memberKey', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-24 14:16:09 - Attempting to add David to operations@column30.com
+2024-01-24 14:16:09 - Error in adding member to group: <HttpError 400 when requesting https://admin.googleapis.com/admin/directory/v1/groups/operations%40column30.com/members?alt=json returned "Invalid Input: memberKey". Details: "[{'message': 'Invalid Input: memberKey', 'domain': 'global', 'reason': 'invalid'}]">
+2024-01-24 14:17:27 - file_cache is only supported with oauth2client<4.0.0
+2024-01-24 14:17:27 - Attempting to add ejohnson@column30.com to hr@column30.com
+2024-01-24 14:17:28 - Member ejohnson@column30.com added to group: hr@column30.com
+2024-01-24 14:17:28 - Attempting to add mwilliams@column30.com to it@column30.com
+2024-01-24 14:17:29 - Member mwilliams@column30.com added to group: it@column30.com
+2024-01-24 14:17:29 - Attempting to add obrown@column30.com to marketing@column30.com
+2024-01-24 14:17:30 - Member obrown@column30.com added to group: marketing@column30.com
+2024-01-24 14:17:30 - Attempting to add jjones@column30.com to it@column30.com
+2024-01-24 14:17:31 - Member jjones@column30.com added to group: it@column30.com
+2024-01-24 14:17:31 - Attempting to add sgarcia@column30.com to finance@column30.com
+2024-01-24 14:17:32 - Member sgarcia@column30.com added to group: finance@column30.com
+2024-01-24 14:17:32 - Attempting to add rmiller@column30.com to research@column30.com
+2024-01-24 14:17:33 - Member rmiller@column30.com added to group: research@column30.com
+2024-01-24 14:17:33 - Attempting to add idavis@column30.com to development@column30.com
+2024-01-24 14:17:33 - Member idavis@column30.com added to group: development@column30.com
+2024-01-24 14:17:33 - Attempting to add dmartinez@column30.com to operations@column30.com
+2024-01-24 14:17:35 - Member dmartinez@column30.com added to group: operations@column30.com

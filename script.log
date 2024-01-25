@@ -1,0 +1,37 @@
+2024-01-24 15:37:31 - CSV parsing completed. Output written to parsed_data.txt
+2024-01-24 15:39:06 - file_cache is only supported with oauth2client<4.0.0
+2024-01-24 15:39:08 - User created: ejohnson@column30.com
+2024-01-24 15:39:09 - User created: mwilliams@column30.com
+2024-01-24 15:39:10 - User created: obrown@column30.com
+2024-01-24 15:39:11 - User created: jjones@column30.com
+2024-01-24 15:39:12 - User created: sgarcia@column30.com
+2024-01-24 15:39:14 - User created: rmiller@column30.com
+2024-01-24 15:39:15 - User created: idavis@column30.com
+2024-01-24 15:39:16 - User created: dmartinez@column30.com
+2024-01-24 15:41:04 - file_cache is only supported with oauth2client<4.0.0
+2024-01-24 15:41:04 - jjones@column30.com has been promoted to super admin
+2024-01-24 15:42:49 - file_cache is only supported with oauth2client<4.0.0
+2024-01-24 15:42:51 - Group created: development@column30.com
+2024-01-24 15:42:52 - Group created: research@column30.com
+2024-01-24 15:42:53 - Group created: finance@column30.com
+2024-01-24 15:42:54 - Group created: it@column30.com
+2024-01-24 15:42:55 - Group created: hr@column30.com
+2024-01-24 15:42:56 - Group created: marketing@column30.com
+2024-01-24 15:43:01 - Group created: operations@column30.com
+2024-01-24 15:45:48 - file_cache is only supported with oauth2client<4.0.0
+2024-01-24 15:45:48 - Attempting to add ejohnson@column30.com to hr@column30.com
+2024-01-24 15:45:50 - Member ejohnson@column30.com added to group: hr@column30.com
+2024-01-24 15:45:50 - Attempting to add mwilliams@column30.com to it@column30.com
+2024-01-24 15:45:51 - Member mwilliams@column30.com added to group: it@column30.com
+2024-01-24 15:45:51 - Attempting to add obrown@column30.com to marketing@column30.com
+2024-01-24 15:45:52 - Member obrown@column30.com added to group: marketing@column30.com
+2024-01-24 15:45:52 - Attempting to add jjones@column30.com to it@column30.com
+2024-01-24 15:45:53 - Member jjones@column30.com added to group: it@column30.com
+2024-01-24 15:45:53 - Attempting to add sgarcia@column30.com to finance@column30.com
+2024-01-24 15:45:54 - Member sgarcia@column30.com added to group: finance@column30.com
+2024-01-24 15:45:54 - Attempting to add rmiller@column30.com to research@column30.com
+2024-01-24 15:45:55 - Member rmiller@column30.com added to group: research@column30.com
+2024-01-24 15:45:55 - Attempting to add idavis@column30.com to development@column30.com
+2024-01-24 15:45:56 - Member idavis@column30.com added to group: development@column30.com
+2024-01-24 15:45:56 - Attempting to add dmartinez@column30.com to operations@column30.com
+2024-01-24 15:45:57 - Member dmartinez@column30.com added to group: operations@column30.com
